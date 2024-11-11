@@ -27,3 +27,11 @@ dist/|Distribution
 dist/jandi.exe|Execution file (*.exe)
 output/|Document for topic and DM room
 download/|Topic and DM room's attached file
+
+## Others
+
+Node.js version
+
+~~~command
+git clone https://github.com/pushdown99/jandi-node
+~~~
