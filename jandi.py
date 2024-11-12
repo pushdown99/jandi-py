@@ -25,7 +25,7 @@ Usage = "\n" \
 "2) modify '.env' file for your information (i.e. email, passwd, ignore keyword, headless or not, verbose)\n" \
 "3) copy font-family 'NanumBarunGothic.ttf' to same folder\n" \
 "4) run jandi.exe\n" \
-"\n\n"
+"\n"
 
 env_exist = os.path.exists (os.path.join (workdir, '.env'))
 #if os.path.exists (os.path.join (workdir, '.env') != True):
